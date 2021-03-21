@@ -1,0 +1,57 @@
+section
+{
+    border: 2px  black outset;
+    background: linear-gradient(#2350ff,white);
+    width: 90%;
+    margin-right: 20px;
+    border-radius: 20px;
+   
+}
+img
+{
+    padding-left: 30%;
+    padding-top:2%;
+    padding-bottom: 3%;
+    width: 50%;
+    
+}
+.e3
+{
+    
+    background-origin: padding-box;
+    width: 60px;
+    height: 44px;
+    margin-left: 1000px;
+    background-attachment: fixed;
+    position: fixed;
+  
+}
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    font-family: lapolice;
+} 
+@font-face
+{
+    font-family: lapolice;
+    src: url(police/Haine.ttf);
+}  
+body
+{
+    background-image: url("football2.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+p
+{
+    font-size: 20px;
+    text-indent: 30px;
+    text-align: justify;
+    margin-left: 12px;
+    padding-right: 10px;
+    padding-left: 10px;
+   
+
+}
